@@ -3,6 +3,6 @@ An approach to evaluating learning path recommendations in e-learning systems. I
 
 ## Research Paper
 
-You can read our full research paper here: [Research Paper (PDF)]([Automated%20Learning%20Path%20Evaluation%20with%20AI-Generated%20Judges_v4.pdf](https://drive.google.com/file/d/1Y_RFgdGl6d6NmE95ljcBVtPlMb6CXjhE/view?usp=sharing))
+You can read our full research paper here: [Research Paper (PDF)](https://drive.google.com/file/d/1Y_RFgdGl6d6NmE95ljcBVtPlMb6CXjhE/view?usp=sharing)
 
 
